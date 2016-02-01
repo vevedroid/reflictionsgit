@@ -1,8 +1,2 @@
-test
-
-fsd
-fsd
-f
-sd
-f
-dsf
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+>> if we develop a experimental feature for instance with new files. branches a commits with names which also makes it easier to find.
